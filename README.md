@@ -1,6 +1,8 @@
 Snake Game
 
+
 This is a simple implementation of the classic Snake game using Python and the Turtle graphics library. Navigate the snake to eat food and grow longer, but avoid hitting the walls or yourself!
+
 Features
 
     Simple and intuitive controls to move the snake (Up, Down, Left, Right).
